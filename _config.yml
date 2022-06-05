@@ -1,0 +1,10 @@
+defaults:
+  - scope:
+      path: ""
+      type: "page"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
