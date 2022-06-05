@@ -1,3 +1,7 @@
+# when then file is edited, stop jekyll serve in the terminal and then restart it
+
+incremental: true
+# livereload: true
 defaults:
   - scope:
       path: ""
